@@ -1,0 +1,9 @@
+{
+    "name": "MayurDhandhukiya/orion-construction",
+    "extra": {
+        "statamic": {
+            "name": "Orion Construction",
+            "description": "A Statamic starter kit for construction sites."
+        }
+    }
+}
